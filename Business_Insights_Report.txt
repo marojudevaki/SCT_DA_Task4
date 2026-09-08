@@ -1,0 +1,47 @@
+
+BUSINESS INSIGHTS REPORT – MARKETING CAMPAIGN ANALYSIS
+
+Objective:
+This analysis was performed to identify which marketing channels generate the
+best business returns and should receive more budget.
+
+Data Preparation:
+The marketing campaign dataset contained 120 records and 20 columns.
+Missing-value and duplicate checks found no missing values and no duplicate rows.
+Start_Date and End_Date were converted into proper datetime format.
+
+Funnel Analysis:
+The campaigns generated 73,796,970 impressions, 2,324,166 clicks,
+172,913 leads, and 42,551 conversions. The overall conversion from
+impressions to conversions was approximately 0.06%. The click rate was
+approximately 3.15%, the lead rate from clicks was 7.44%, and the conversion
+rate from leads was 24.61%.
+
+Channel Performance:
+Email was the strongest-performing channel based on calculated ROI.
+It generated revenue of approximately $5.07 million from spending of
+approximately $690.64 thousand, with a calculated ROI of 634.43% and
+11,530 conversions.
+
+Instagram was the second-best channel, generating approximately $4.25 million
+in revenue from $725.54 thousand spending. Its calculated ROI was 485.22%,
+with 8,462 conversions.
+
+Google Ads ranked third with a calculated ROI of 361.50%.
+
+Recommendations:
+1. Increase budget allocation toward Email because it achieved the highest
+   calculated ROI, highest revenue, highest conversions, and highest conversion
+   rate among the channels.
+2. Increase Instagram investment gradually because it produced the second-
+   highest ROI and strong conversion performance.
+3. Maintain Google Ads as a supporting channel because it generated the
+   third-highest ROI and substantial conversions.
+4. Review lower-performing channels such as YouTube and LinkedIn for
+   optimization before increasing their budgets.
+
+Conclusion:
+The analysis shows that Email and Instagram provide the strongest combination
+of ROI, revenue, and conversions. Therefore, these channels should receive
+greater budget priority, while other channels should be optimized and
+monitored before additional investment.
